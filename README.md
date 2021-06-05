@@ -32,4 +32,6 @@ Wiki Pages :
 2. [Wiki Styles Guidelines](https://github.com/decadevs/clads/wiki/PR-Style)
 3. [Wiki PR Guidelines](https://github.com/decadevs/clads/wiki/Style)
 
-
+![](app/src/main/res/drawable/splash_screen.png)
+![](app/src/main/res/drawable/landing_screen.png)
+![](app/src/main/res/drawable/signup_options_screen.png)
